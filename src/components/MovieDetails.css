@@ -1,0 +1,27 @@
+.details-container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  font-family: sans-serif;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.details-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.details-container img {
+  display: block;
+  margin: 0 auto 20px;
+  width: 250px;
+  height: auto;
+  border-radius: 5px;
+}
+
+.details-container p {
+  margin: 10px 0;
+  line-height: 1.5;
+}
